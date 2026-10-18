@@ -1,0 +1,199 @@
+{
+  "stage": "domain-design",
+  "upstream_ids": [
+    "US1.1",
+    "US1.2",
+    "US2.1",
+    "US2.2",
+    "US3.1",
+    "US3.2",
+    "US4.1",
+    "US4.2",
+    "US4.3",
+    "US4.4",
+    "US4.5",
+    "US4.6",
+    "US4.7",
+    "US5.1",
+    "US5.2",
+    "US5.3",
+    "US6.1",
+    "US6.2",
+    "US6.3",
+    "US6.4",
+    "US7.1",
+    "US7.2",
+    "US8.1",
+    "US8.2",
+    "US8.3",
+    "US8.4",
+    "US9.1",
+    "US9.2",
+    "US10.1",
+    "US10.2",
+    "US11.1",
+    "US11.2"
+  ],
+  "coverage": [
+    {
+      "id": "US1.1",
+      "status": "OK",
+      "target": "Account"
+    },
+    {
+      "id": "US1.2",
+      "status": "OK",
+      "target": "Account, WebApp"
+    },
+    {
+      "id": "US2.1",
+      "status": "OK",
+      "target": "Tasks"
+    },
+    {
+      "id": "US2.2",
+      "status": "OK",
+      "target": "Tasks"
+    },
+    {
+      "id": "US3.1",
+      "status": "OK",
+      "target": "Focus, Tasks"
+    },
+    {
+      "id": "US3.2",
+      "status": "OK",
+      "target": "Focus, Tasks"
+    },
+    {
+      "id": "US4.1",
+      "status": "OK",
+      "target": "Tasks"
+    },
+    {
+      "id": "US4.2",
+      "status": "OK",
+      "target": "Tasks"
+    },
+    {
+      "id": "US4.3",
+      "status": "OK",
+      "target": "Tasks"
+    },
+    {
+      "id": "US4.4",
+      "status": "OK",
+      "target": "Tasks"
+    },
+    {
+      "id": "US4.5",
+      "status": "OK",
+      "target": "Tasks, Planning"
+    },
+    {
+      "id": "US4.6",
+      "status": "OK",
+      "target": "Tasks"
+    },
+    {
+      "id": "US4.7",
+      "status": "OK",
+      "target": "Tasks"
+    },
+    {
+      "id": "US5.1",
+      "status": "OK",
+      "target": "Planning"
+    },
+    {
+      "id": "US5.2",
+      "status": "OK",
+      "target": "Planning"
+    },
+    {
+      "id": "US5.3",
+      "status": "OK",
+      "target": "Tasks, Planning"
+    },
+    {
+      "id": "US6.1",
+      "status": "OK",
+      "target": "Focus"
+    },
+    {
+      "id": "US6.2",
+      "status": "OK",
+      "target": "Focus"
+    },
+    {
+      "id": "US6.3",
+      "status": "OK",
+      "target": "Focus"
+    },
+    {
+      "id": "US6.4",
+      "status": "OK",
+      "target": "Focus"
+    },
+    {
+      "id": "US7.1",
+      "status": "OK",
+      "target": "Notifications"
+    },
+    {
+      "id": "US7.2",
+      "status": "OK",
+      "target": "Planning, Tasks"
+    },
+    {
+      "id": "US8.1",
+      "status": "OK",
+      "target": "CalendarSync"
+    },
+    {
+      "id": "US8.2",
+      "status": "OK",
+      "target": "CalendarSync"
+    },
+    {
+      "id": "US8.3",
+      "status": "OK",
+      "target": "CalendarSync"
+    },
+    {
+      "id": "US8.4",
+      "status": "OK",
+      "target": "CalendarSync"
+    },
+    {
+      "id": "US9.1",
+      "status": "OK",
+      "target": "Notifications"
+    },
+    {
+      "id": "US9.2",
+      "status": "OK",
+      "target": "Verses"
+    },
+    {
+      "id": "US10.1",
+      "status": "OK",
+      "target": "Insights"
+    },
+    {
+      "id": "US10.2",
+      "status": "OK",
+      "target": "Account, Insights"
+    },
+    {
+      "id": "US11.1",
+      "status": "OK",
+      "target": "Tasks"
+    },
+    {
+      "id": "US11.2",
+      "status": "OK",
+      "target": "Tasks, Planning, WebApp"
+    }
+  ]
+}
